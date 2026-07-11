@@ -48,7 +48,6 @@ app.get("/about", (req, res) => {
 // the Solutions page
 app.get("/explorer/solutions", (req, res) => {
     if (req.query.sector) {
-
         solutionData
             .getSolutionsBySector(req.query.sector)
             .then((solutions) => {
@@ -73,8 +72,6 @@ app.get("/explorer/solutions", (req, res) => {
             });
 
     } else {
-
-
         solutionData
             .getAllSolutions()
             .then((solutions) => {
@@ -93,9 +90,7 @@ app.get("/explorer/solutions", (req, res) => {
     }
 });
 
-
-
-// the Single solution details
+// the Single solution by id details
 app.get("/explorer/solutions/:id", (req, res) => {
     solutionData
         .getSolutionById(req.params.id)
@@ -112,17 +107,13 @@ app.get("/explorer/solutions/:id", (req, res) => {
         });
 });
 
-
-
-// the custom 404 error page for all other undefined routes
+// the custom 404 error page for all other not already defined routes
 app.use((req, res) => {
     res.status(404).render("404", {
         message:
             "I'm sorry, we're unable to find what you're looking for."
     });
 });
-
-
 
 // Initialize the data
 solutionData
