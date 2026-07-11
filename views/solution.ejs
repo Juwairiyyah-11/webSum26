@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dim">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title><%= solution.title %></title>
+
+    <link rel="stylesheet"
+          href="/css/main.css">
+</head>
+
+<body>
+
+<%- include("partials/navbar") %>
+
+<div class="container mx-auto p-6">
+
+    <!-- Hero -->
+    <div class="hero bg-base-200 rounded-xl shadow-lg mb-10">
+        <div class="hero-content text-center">
+            <div>
+
+                <h1 class="text-5xl font-bold">
+                    <%= solution.title %>
+                </h1>
+
+                <p class="py-6">
+                    Below, you will find detailed information about the solution:
+                    <strong><%= solution.title %></strong>
+                </p>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Image -->
+    <div class="flex justify-center mb-8">
+        <img
+            src="<%= solution.feature_img_url %>"
+            alt="<%= solution.title %>"
+            class="rounded-xl shadow-xl max-w-2xl w-full">
+    </div>
+
+    <!-- Information Card -->
+    <div class="card bg-base-100 shadow-xl">
+        <div class="card-body">
+
+            <h2 class="card-title">
+                Introduction
+            </h2>
+
+            <p>
+                <%= solution.intro_short %>
+            </p>
+
+            <br>
+
+            <h2 class="card-title">
+                Solution Type
+            </h2>
+
+            <p>
+                <%= solution.solution_type %>
+            </p>
+
+            <br>
+
+            <h2 class="card-title">
+                Climate Impact
+            </h2>
+
+            <p>
+                <%= solution.impact %>
+            </p>
+
+            <br>
+
+            <a
+                href="<%= solution.original_source_url %>"
+                target="_blank"
+                class="btn btn-primary">
+
+                Learn More
+            </a>
+
+        </div>
+    </div>
+
+    <!-- Quote -->
+    <div class="card bg-base-200 shadow-lg mt-8">
+        <div class="card-body">
+
+            <h2 class="card-title">
+                Quote of the Day
+            </h2>
+
+            <blockquote id="quote">
+                Loading quote...
+            </blockquote>
+
+            <p id="author"></p>
+
+        </div>
+    </div>
+
+    <!-- Back Button -->
+    <div class="mt-8">
+
+        <a
+            href="#"
+            onclick="history.back(); return false;"
+            class="btn btn-secondary">
+            ← Back
+        </a>
+
+    </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+    fetch("https://dummyjson.com/quotes/random")
+
+    .then(response => response.json())
+
+    .then(data => {
+
+        document.getElementById("quote").innerHTML = '"' + data.quote + '"';
+
+        document.getElementById("author").innerHTML =
+            "- " + data.author;
+
+    })
+
+    .catch(() => {
+
+        document.getElementById("quote").innerHTML =
+            "Unable to load quote.";
+
+    });
+
+});
+</script>
+
+</body>
+</html>

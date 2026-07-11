@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dim">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Climate Solutions</title>
+
+    <link rel="stylesheet"
+          href="/css/main.css">
+</head>
+
+<body>
+<%- include("partials/navbar") %>
+
+<div class="container mx-auto p-6">
+
+    <!-- Hero -->
+    <div class="hero bg-base-200 rounded-xl shadow-lg mb-10">
+        <div class="hero-content text-center">
+            <div>
+
+                <h1 class="text-5xl font-bold">
+                    Climate Solutions Explorer
+                </h1>
+
+                <p class="py-6">
+                    Select a sector below or use the navigation menu to
+                    browse climate solutions.
+                </p>
+
+                <div class="flex flex-wrap justify-center gap-3">
+
+                    <a href="/explorer/solutions?sector=Electricity"
+                       class="btn btn-primary">
+                        Electricity
+                    </a>
+
+                    <a href="/explorer/solutions?sector=Transportation"
+                       class="btn btn-primary">
+                        Transportation
+                    </a>
+
+                    <a href="/explorer/solutions?sector=Nature-Based Carbon Removal"
+                       class="btn btn-primary">
+                        Nature-Based Carbon Removal
+                    </a>
+
+                    <a href="/explorer/solutions?sector=Buildings"
+                       class="btn btn-primary">
+                        Buildings
+                    </a>
+
+                    <a href="/explorer/solutions?sector=Food"
+                       class="btn btn-primary">
+                        Food
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Solutions Table -->
+    <div class="overflow-x-auto">
+
+        <table class="table table-zebra w-full">
+            <thead>
+                <tr>
+
+                    <th>Title</th>
+                    <th>Sector</th>
+                    <th>Type</th>
+                    <th>Details</th>
+
+                </tr>
+            </thead>
+
+            <tbody>
+                <% solutions.forEach(solution => { %>
+                    <tr>
+
+                        <td>
+                            <%= solution.title %>
+                        </td>
+
+                        <td>
+                            <a
+                                href="/explorer/solutions?sector=<%= solution.sector %>"
+                                class="btn btn-sm btn-secondary">
+                                <%= solution.sector %>
+                            </a>
+                        </td>
+
+                        <td>
+                            <%= solution.solution_type %>
+                        </td>
+
+                        <td>
+
+                            <a
+                                href="/explorer/solutions/<%= solution.id %>"
+                                class="btn btn-sm btn-primary">
+                                Details
+                            </a>
+
+                        </td>
+                    </tr>
+
+                <% }) %>
+
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+</body>
+</html>

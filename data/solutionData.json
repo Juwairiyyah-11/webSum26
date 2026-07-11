@@ -1,0 +1,303 @@
+[
+    {   
+        "id": 1,
+        "sector_id": 1,
+        "title": "Restore Forests",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Restore%20Forests%20Boreal_2400x2400_0.jpg?itok=isLIdV73",
+        "solution_type": "Restore & Manage Ecosystems",
+        "intro_short": "Forest restoration is the process of returning previously forested land to a forested state. As forests regrow, they remove carbon from the atmosphere and sequester it in biomass. We define forest restoration as planting new trees or allowing trees to naturally regrow on previously forested land that has been cleared. Through photosynthesis, forests take carbon from the atmosphere and store it in biomass. On net, forests currently take up an estimated 11.4–14.7 Gt CO₂‑eq/yr  (Friedlingstein et al., 2023; Gibbs et al., 2025; Pan et al., 2024), equal to approximately 19–25% of total global anthropogenic GHG emissions (Dhakal et al., 2022). Restoring forests increases the size of the forest carbon sink, sequestering additional CO₂.",
+        "impact": "We estimated that forest restoration could sequester 0.718 Gt CO₂‑eq/yr at the low-achievable adoption scenario, 1.077 Gt CO₂‑eq/yr at the high-achievable adoption scenario, and 1.437 Gt CO₂‑eq/yr at the adoption ceiling (Table 5a–e). Nearly 70% of the total climate impacts under these scenarios occur in tropical regions, where much of the current investment in restoration is focused.",
+        "original_source_url": "https://drawdown.org/explorer/restore-forests"
+    },
+    {   
+        "id": 2,
+        "sector_id": 2,
+        "title": "Improve Cement Production",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_CementProduction_2400x2400.jpg?itok=iHk3DawS",
+        "solution_type": "Improve Materials",
+        "intro_short": "Cement is a key ingredient of concrete, a manufactured material used in massive quantities around the world. Cement production generates high CO₂ emissions from the production of clinker, a binding ingredient. These emissions come from not only the chemical reaction that produces clinker, but also burning fossil fuels to provide heat for this reaction. We define the Improve Cement Production solution as reducing GHG emissions related to cement manufacturing by substituting other materials for clinker, using alternative fuels, and improving process efficiency.",
+        "impact": "Improving cement production can significantly reduce GHG emissions. By substituting clinker with alternative materials like fly ash or slag, using alternative fuels such as biomass or waste-derived fuels, and enhancing process efficiency through better kiln design and operation, the cement industry can lower its carbon footprint.",
+        "original_source_url": "https://drawdown.org/explorer/improve-cement-production"
+    },
+    {   
+        "id": 3,
+        "sector_id": 3,
+        "title": "Increase Carpooling",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Carpooling_2400x2400.jpeg?itok=M9LFO1-z",
+        "solution_type": "Shift to Alternatives",
+        "intro_short": "Carpooling entails increasing the occupancy of passenger cars, including taxis, pickup trucks, motorhomes, passenger vans and other such vehicles but not including two- or three-wheeled, freight, public transit, or commercial vehicles, such as buses, heavy trucks, and commercial vans. It replaces the practice of driving alone. We define Increase Carpooling as having at least one passenger per car in addition to the driver (two passengers for ride-hailing). We consider a fully adopted carpool trip as having 2 passengers for a car occupancy of three. New adoption is considered as any passenger kilometer (pkm)/yr avoided from an increase in the 2023 current adoption baseline (average occupancy of 1.5).",
+        "impact": "Increasing carpooling can significantly reduce transportation-related GHG emissions by decreasing the number of vehicles on the road and improving fuel efficiency. The impact depends on the scale of adoption and the emissions intensity of the transportation grid.",
+        "original_source_url": "https://drawdown.org/explorer/increase-carpooling"
+    },
+    {   
+        "id": 4,
+        "sector_id": 4,
+        "title": "Deploy LED Lighting",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_LEDLighting_2400x2400.jpg?itok=viThnGFb",
+        "solution_type": "Enhance Efficiency",
+        "intro_short": "We define the Deploy LED Lighting solution as replacing energy-inefficient light sources with light-emitting diodes (LEDs). Lighting accounts for 15–20% of electricity use in buildings. Using LEDs reduces the electricity that building lighting consumes, and thereby cuts GHG emissions from global electricity generation.",
+        "impact": "Deploying LED lighting can significantly reduce electricity consumption for lighting, which in turn reduces GHG emissions from electricity generation. The impact depends on the scale of adoption and the emissions intensity of the electricity grid. As more buildings switch to LED lighting, the cumulative reduction in electricity demand can lead to substantial emissions savings.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-led-lighting"
+    },
+    {   
+        "id": 5,
+        "sector_id": 5,
+        "title": "Improve Diets",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Diets_2400x2400.jpeg?itok=vZ809mW6",
+        "solution_type": "Curb Growing Demands ",
+        "intro_short": "Agriculture produces about 12 Gt CO₂‑eq/yr, or 21% of total human-caused GHG emissions (Intergovernmental Panel on Climate Change [IPCC], 2023). Animal agriculture contributes more than half of these emissions (Halpern et al., 2022; Poore and Nemecek, 2018).  Ruminant animals, such as cattle, sheep, and goats produce methane – a GHG with 80 times the warming potential of CO₂ in the near term – in their digestive system (Jackson et al., 2024). Since agriculture is the leading driver of tropical deforestation, particularly for cattle and animal feed production, reducing ruminant meat consumption can avoid additional forest loss and associated GHG emissions.",
+        "impact": "Improving diets can significantly reduce GHG emissions from agriculture by decreasing the demand for resource-intensive animal products. The impact depends on the scale of adoption and the emissions intensity of the food system. As more people adopt plant-based diets or reduce meat consumption, the cumulative reduction in emissions can be substantial.",
+        "original_source_url": "https://drawdown.org/explorer/improve-diets"
+    },
+    {   
+        "id": 6,
+        "sector_id": 1,
+        "title": "Deploy Silvopasture",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Silvopasture_2400x2400.jpg?itok=i4D_il78",
+        "solution_type": "Shift Agriculture Practices",
+        "intro_short": "Deploy Silvopasture solution is the adoption of agroforestry practices that add trees to grazing land, including planted pastures and natural rangelands. (Note that this solution does NOT include creating forested grazing land by thinning existing forest; this is a form of deforestation and not desirable in terms of climate.) Some silvopastures are open savannas, while others are dense, mature tree plantations. The trees may be planted or managed to naturally regenerate. Some silvopasture systems have been practiced for thousands of years, while others have been recently developed. All provide shade to livestock; in some systems, the trees feed livestock, produce timber or crops for human consumption, or provide other benefits. New adoption is estimated from the 2025 level as a baseline which is therefore set to zero.",
+        "impact": "Silvopasture is primarily appropriate for grazing land that receives sufficient rainfall to support tree growth. While it can be implemented on both cropland and grassland, if adopted on cropland, it will reduce food yield because livestock produce much less food per hectare than crops. In the humid tropics, a particularly productive and high-carbon variation called intensive silvopasture is an option. Ideally, graziers will have secure land tenure, though pastoralist commons have been used successfully.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-silvopasture"
+    },
+    {   
+        "id": 7,
+        "sector_id": 2,
+        "title": "Increase Centralized Composting",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Composting_2400x2400.jpg?itok=HAoouZN6",
+        "solution_type": "Use Waste as a Resource",
+        "intro_short": "Centralized composting is the collection and processing of organic waste (e.g., food scraps, yard waste) in a centralized facility to produce compost, a nutrient-rich soil amendment. This solution reduces methane emissions from landfills, where organic waste would otherwise decompose anaerobically and release methane, a potent greenhouse gas. Additionally, using compost can improve soil health and reduce the need for synthetic fertilizers, which are energy-intensive to produce.",
+        "impact": "Increasing centralized composting can significantly reduce methane emissions from landfills, which are a major source of GHG emissions. By diverting organic waste to composting facilities, we can prevent the release of methane and instead produce valuable compost that can enhance soil health and sequester carbon. The impact of this solution depends on the scale of adoption and the amount of organic waste diverted from landfills.",
+        "original_source_url": "https://drawdown.org/explorer/increase-centralized-composting"
+    },
+    {   
+        "id": 8,
+        "sector_id": 3,
+        "title": "Mobilize Electric Bicycles",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Ebike_2400x2400.jpg?itok=TrXDMeZh",
+        "solution_type": "Electrify Vehicles ",
+        "intro_short": "We define the Mobilize Electric Bicycles solution as increased travel by bicycles that have an electric motor to supplement the effort of the rider, but require the rider to turn the pedals to activate the motor. Some sources refer to electric mopeds or motorcycles as electric bicycles, but those modes of transportation fall within Project Drawdown’s Mobilize Electric Scooters & Motorcycles solution and are not covered here. Also known as pedelecs or e-bikes, electric bicycles can be deployed as privately owned electric bicycles or as shared electric bicycles, which are available as part of bicycle sharing networks typically operated at the city level for short-term rental on a per-trip basis.",
+        "impact": "Mobilizing electric bicycles can significantly reduce transportation-related GHG emissions by providing a clean alternative to conventional vehicles. The impact depends on the scale of adoption and the emissions intensity of the transportation grid.",
+        "original_source_url": "https://drawdown.org/explorer/mobilize-electric-bicycles"
+    },
+    {   
+        "id": 9,
+        "sector_id": 4,
+        "title": "Deploy Offshore Wind Turbines",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_OffshoreWind_2400x2400.jpeg?itok=0Pxv1Csk",
+        "solution_type": "Shift Production ",
+        "intro_short": "Offshore wind turbines are ocean-based machines that harness natural wind to generate electricity. These turbines use the relatively strong winds over the water to rotate their blades, which power a generator to make electricity. The electricity travels through underwater cables to reach the land. There are two main types: fixed-bottom turbines, which are attached to the seabed in shallow waters (typically up to 60 meters deep), and floating turbines, which sit on platforms anchored in deeper waters. Offshore wind farms can produce more electricity than land-based wind farms because ocean winds are usually stronger and steadier than winds on land.",
+        "impact": "Deploying offshore wind turbines can significantly reduce GHG emissions by generating clean electricity from renewable sources. The impact depends on the scale of adoption and the emissions intensity of the electricity grid.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-offshore-wind-turbines"
+    },
+    {   
+        "id": 10,
+        "sector_id": 5,
+        "title": "Improve Nutrient Management",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_NutrientManagement_2400x2400.jpg?itok=5yN0bF8i",
+        "solution_type": "Shift Agriculture Practices",
+        "intro_short": "We define the Improve Nutrient Management solution as reducing excessive nitrogen use on croplands. Nitrogen is critical for crop production and is added to croplands as synthetic or organic fertilizers and through microbial activity. However, farmers often add more nitrogen to croplands than crops can use. Some of that excess nitrogen is emitted to the atmosphere as nitrous oxide, a potent GHG.",
+        "impact": "Improving nutrient management can significantly reduce GHG emissions from agriculture by decreasing the amount of excess nitrogen that is lost to the atmosphere. The impact depends on the scale of adoption and the emissions intensity of the food system.",
+        "original_source_url": "https://drawdown.org/explorer/improve-nutrient-management"
+    },
+    {   
+        "id": 11,
+        "sector_id": 1,
+        "title": "Restore Grasslands & Savannas",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY26_Explorer_NON_RestoreGrasslands_2400x2400.jpg?itok=pzyXjx64",
+        "solution_type": "Restore & Manage Ecosystems",
+        "intro_short": "Grassland and savanna restoration removes CO₂ from the atmosphere through photosynthesis as the ecosystem regrows, storing carbon in soils and vegetation. Grassland and savanna restoration faces relatively low barriers to implementation, provides substantial benefits for biodiversity, and may be deployable on large land areas. However, we currently lack sufficient information to assess whether the climate impact of grassland and savanna restoration falls above or below our threshold of globally meaningful carbon removal (>0.1 Gt CO₂‑eq/yr ), given limited data on the magnitude of its effectiveness and adoption potential. Therefore, we conclude that Restoring Grasslands and Savannas is “Worthwhile,” and will reassess the climate impact of this solution as further research is done. ",
+        "impact": "Grassland and savanna restoration will generally remove carbon when implemented with ecologically appropriate strategies on grasslands and savannas with depleted carbon stocks. Restoration efforts covering millions of hectares have already been initiated in some regions, though data tracking restoration progress are sparse. Although grassland and savanna restoration will remove carbon in principle, very little information is available to quantitatively assess the amount of carbon removed by restoration of degraded, ungrazed grasslands and savannas. One study in the United States found that planting diverse species on degraded grasslands increased total carbon uptake by up to 178% of that associated with natural succession over 22 years; however, the generalizability of this finding is unclear. Other studies that focused on activities outside of the scope of this solution, such as changing grazing practices, restoring croplands to grasslands, planting legumes, and adding fertilizers, found an average increase in carbon uptake rates of ~1.7 t CO₂‑eq /ha/yr with a range of 0.1–3.2 t CO₂‑eq /ha/yr. These estimates may serve as a rough benchmark of the maximum per-hectare carbon removal that grassland restoration could achieve.",
+        "original_source_url": "https://drawdown.org/explorer/restore-grasslands-savannas"
+    },
+    {   
+        "id": 12,
+        "sector_id": 2,
+        "title": "Deploy Industrial Green Hydrogen",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Deploy%20Industrial%20Green%20Hydrogen%20Feedstock_2400x2400.jpg?itok=3jZOa8hm",
+        "solution_type": "Deploy Clean Energy Technologies",
+        "intro_short": "Industrial green hydrogen is produced using renewable energy sources, such as wind or solar power, to split water into hydrogen and oxygen. This process generates no direct greenhouse gas emissions, making it a promising solution for decarbonizing heavy industry and transportation sectors.",
+        "impact": "Deploying industrial green hydrogen can significantly reduce greenhouse gas emissions from heavy industry and transportation sectors that are difficult to electrify. The impact depends on the scale of deployment and the availability of renewable energy sources.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-industrial-green-hydrogen"
+    },
+    {   
+        "id": 13,
+        "sector_id": 3,
+        "title": "Mobilize Hybrid Cars",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_HybridCars_2400x2400.jpg?itok=IwVgb8D1",
+        "solution_type": "Enhance Efficiency",
+        "intro_short": "The Mobilize Hybrid Cars solution entails shifting trips from fossil fuel–powered internal combustion engine (ICE) cars to more efficient, lower emitting hybrid cars. Hybrid cars include hybrid electric cars (HEVs) and plug-in hybrid electric cars (PHEVs). They are four-wheeled passenger cars that combine an ICE with an electric motor and battery to improve fuel efficiency and reduce emissions. This definition includes hybrid sedans, sport utility vehicles (SUVs), and pickup trucks, but excludes fully electric cars, two-wheeled vehicles, and hybrid commercial or freight vehicles, such as hybrid buses and delivery trucks. Hybrid cars are a transitional climate solution because they are more efficient and produce fewer emissions per distance traveled than do fossil fuel–powered ICE cars but still rely on fossil fuel combustion.",
+        "impact": "Mobilizing hybrid cars can significantly reduce transportation-related GHG emissions by improving fuel efficiency and reducing the amount of fossil fuel consumed. The impact depends on the scale of adoption and the emissions intensity of the transportation grid.",
+        "original_source_url": "https://drawdown.org/explorer/mobilize-hybrid-cars"
+    },
+    {   
+        "id": 14,
+        "sector_id": 4,
+        "title": "Deploy Cool Roofs",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY26_Explorer_NON_CoolRoofs_2400x2400.jpg?itok=lxVHWJZ-",
+        "solution_type": "Enhance Efficiency ",
+        "intro_short": "Cool roofs cut GHG emissions from electricity generation by lowering the amount of cooling required to condition indoor spaces, thereby decreasing the use of air conditioners. Using cool roofs in building design lowers electricity use, improves thermal comfort for building occupants, and is relatively cheap to deploy. However, its potential climate impact is relatively small, and its relevance is largely limited to hot climates where buildings need more cooling than heating to be thermally comfortable. Its application has mostly been in pilot projects, but we conclude that this solution is “Worthwhile” with potential for large-scale deployment.",
+        "impact": "Deploying cool roofs can significantly reduce GHG emissions from electricity generation by lowering the amount of cooling required to condition indoor spaces. This leads to decreased use of air conditioners and reduced electricity consumption. The impact depends on the scale of adoption and the emissions intensity of the electricity grid.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-cool-roofs"
+    },
+    {   
+        "id": 15,
+        "sector_id": 5,
+        "title": "Deploy Electric Irrigation Pumps",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY26_Explorer_NON_ElectricIrrigationPumps_2400x2400.jpg?itok=N3bUTth8",
+        "solution_type": "Fuel Switching ",
+        "intro_short": "Replacing fossil-fuel-powered irrigation pumps with electric pumps powered by the grid can reduce emissions in most regions of the world. Electric irrigation pumps, which can also be powered by on-site clean energy, are more efficient than fossil fuel pumps. They are already cost-competitive and widely used, and adoption is increasing. Their emissions benefits will continue to grow as irrigation expands and the emissions intensity of the electrical grid falls. However, based on current grid emissions intensity, the climate impact of using electric pumps for agricultural irrigation is not globally meaningful (<0.1 Gt CO₂‑eq/yr ). Despite its modest climate impact, our assessment finds that deploying electric irrigation pumps is “Worthwhile.”",
+        "impact": "Deploying electric irrigation pumps can significantly reduce GHG emissions from agriculture by replacing fossil-fuel-powered pumps with cleaner electric alternatives. The impact depends on the scale of adoption and the emissions intensity of the electricity grid.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-electric-irrigation-pumps"
+    },
+    {   
+        "id": 16,
+        "sector_id": 1,
+        "title": "Restore Mangrove Ecosystems",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_CoastalWetlands_Mangroves_2400x2400.jpg?itok=gkneBWh1",
+        "solution_type": "Restore & Manage Ecosystems",
+        "intro_short": "Restore Mangrove Ecosystems removes carbon by re-establishing mangrove forests in areas where they were previously destroyed by conversion or other disturbances. This allows carbon to accumulate in above- and below-ground biomass and sediment. Advantages include mangrove forests' high effectiveness at carbon removal and storage, as well as their numerous environmental benefits and generally low cost. However, the relatively small area available for restoration (~1 Mha) likely limits its global climate impact below 0.1 Gt CO₂‑eq/yr. Despite its limited global climate impact, we consider restoring mangrove forests “Worthwhile” as it is a valuable regional multi-benefit tool for carbon removal with no major environmental risks.",
+        "impact": "Mangrove restoration is a well-established carbon removal approach that has been practiced for at least 40 years in many regions of the world. Research shows that restored mangrove ecosystems can act as large, durable carbon sinks, with sediment carbon likely able to persist for centuries or longer, similar to natural systems. However, because the estimated global area available for restoration is ~1 Mha, its climate impact is expected to be under 0.1 Gt CO₂‑eq/yr. Despite this limitation, restoration can still be a regionally important intervention in certain regions and countries that hold a disproportionate share of restorable mangrove area, due to its high effectiveness. Indonesia (~186,600 ha) and Mexico (~145,500 ha) contain the two largest national areas of restorable mangroves globally. In a relative sense, countries such as Belize, Honduras, Mexico, Nicaragua, Sri Lanka, the United States, and Vietnam are estimated to have at least 10% of their original mangrove area restorable. ",
+        "original_source_url": "https://drawdown.org/explorer/restore-mangrove-ecosystems"
+    },
+    {   
+        "id": 17,
+        "sector_id": 2,
+        "title": "Improve Landfill Management",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_LandfillManagement_2400x2400.jpg?itok=KP1-BVDk",
+        "solution_type": "Cut Fugitive Emissions",
+        "intro_short": "Improve Landfill Management focuses on reducing greenhouse gas emissions from landfills through better design, operation, and monitoring practices.",
+        "impact": "Improving landfill management can significantly reduce methane emissions, a potent greenhouse gas. The impact depends on the scale of implementation and the effectiveness of the measures taken.",
+        "original_source_url": "https://drawdown.org/explorer/improve-landfill-management"
+    },
+    {   
+        "id": 18,
+        "sector_id": 3,
+        "title": "Improve Nonmotorized Transportation",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_NonMotorizedTransport_2400x2400.jpg?itok=eyu4XSLI",
+        "solution_type": "Shift to Alternatives",
+        "intro_short": "We define Improve Nonmotorized Transportation as increasing any form of travel that does not use a motor or engine. In theory, this includes a huge range of transportation modes, including horses, cross-country skis, sailboats, hand-operated rickshaws, and animal-drawn carriages. In practice, pedestrian travel and cycling account for most nonmotorized utilitarian passenger travel.",
+        "impact": "Improving nonmotorized transportation can significantly reduce transportation-related GHG emissions by providing clean alternatives to motorized vehicles. The impact depends on the scale of adoption and the emissions intensity of the transportation grid.",
+        "original_source_url": "https://drawdown.org/explorer/improve-nonmotorized-transportation"
+    },
+    {   
+        "id": 19,
+        "sector_id": 4,
+        "title": "Deploy District Cooling",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_DistrictCooling_2400x2400.jpg?itok=gJnTPmLr",
+        "solution_type": "Enhance Efficiency ",
+        "intro_short": "Deploying district cooling is the process of connecting multiple buildings in a dense area to a single, highly efficient source of cooling. The increased energy efficiency and reduction in use of high global warming potential refrigerants can translate into substantial emissions reductions and lower operating expenses. District cooling systems that integrate cool thermal storage have the potential to significantly reduce electricity demand during peaks when demand for cooling can strain electricity grids. However, the high upfront cost, long-term planning, and large number of stakeholders involved make this a challenging solution, especially in low- and middle-income countries where new demand for cooling is growing. Lack of publicly available data also makes this potential solution difficult to explore in greater depth. Based on our assessment, we will “Keep Watching” this potential solution.",
+        "impact": "Deploying district cooling can significantly reduce GHG emissions by improving the efficiency of cooling systems and reducing the amount of electricity required for air conditioning. The impact depends on the scale of adoption and the emissions intensity of the electricity grid.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-district-cooling"
+    },
+    {   
+        "id": 20,
+        "sector_id": 5,
+        "title": "Advance Cultivated Meat",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_CellularAgriculture_2400x2400.jpg?itok=e7yPPSA6",
+        "solution_type": "Curb Growing Demands",
+        "intro_short": "Cultivated meat is produced from a sample of animal cells, rather than by slaughtering animals. This technology shows promise for reducing emissions from animal agriculture, but its climate impact depends on the energy source used during production. Research and development are still in early stages, and whether the products can scale depends on continued investments, consumer approval, technological growth, and regulatory acceptance. While cultivated meat shows potential, evidence about its emissions reduction potential is limited, and the high costs of production may restrain its scalability. Based on our assessment, we will “Keep Watching” this potential solution.",
+        "impact": "Advance Cultivated Meat can significantly reduce GHG emissions from animal agriculture by providing a cleaner alternative to conventional meat production. The impact depends on the scale of adoption and the emissions intensity of the food system.",
+        "original_source_url": "https://drawdown.org/explorer/advance-cultivated-meat"
+    },
+    {   
+        "id": 21,
+        "sector_id": 1,
+        "title": "Restore Salt Marsh Ecosystems",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_CoastalWetlands_SaltMarsh_2400x2400.jpg?itok=H8TLk9pY",
+        "solution_type": "Restore & Manage Ecosystems",
+        "intro_short": "Restore Salt Marsh Ecosystems involves actively reestablishing salt marshes in areas where they were previously lost to conversion or other disturbance, allowing vegetation to regrow and carbon to accumulate in biomass and sediments. Advantages include salt marshes’ ability to durably store substantial quantities of carbon over long time periods and their numerous co-benefits for the environment and humans. Disadvantages include variable but potentially low effectiveness due to site-to-site differences in carbon removal rates and potential emissions of other GHGs, such as methane and nitrous oxide, as well as costs that might exceed US$500/t CO₂‑eq in some areas. Salt marsh restoration is not expected to have a globally meaningful climate impact (>0.1 Gt CO₂‑eq/yr ), primarily because the adoption ceiling is constrained by the limited area available for restoration, but there are no major environmental risks associated with the solution. Therefore, Restore Salt Marsh Ecosystems is “Worthwhile.”",
+        "impact": "Restore Salt Marsh Ecosystems removes carbon from the air by reestablishing salt marshes in areas where they were previously drained, filled, or otherwise degraded and lost. As plants take up CO₂ through photosynthesis and vegetation traps sediments, some of this carbon is stored long term in waterlogged soils with slow decomposition rates. Restoration typically reconnects land to tidal exchange and rebuilds marsh elevation and vegetation, which promotes plant growth and sediment accumulation. Active restoration can include breaching levees or removing barriers to restore tidal flow, regrading or adding sediment to raise elevations, planting native marsh vegetation, and controlling invasive species. In many cases, restoration can also reduce GHG emissions by replacing land uses, such as drained agriculture, that emit CO₂. ",
+        "original_source_url": "https://drawdown.org/explorer/restore-salt-marsh-ecosystems"
+    },
+    {   
+        "id": 22,
+        "sector_id": 2,
+        "title": "Increase Recycling",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Recycle_metals_2400x2400.jpeg?itok=a0MWvW04",
+        "solution_type": "Use Waste as a Resource ",
+        "intro_short": "Recycling is a mechanical process that repurposes waste into new products without altering their chemical structure. This solution focuses on four common waste types: metals, paper and cardboard, plastics, and glass. It reduces GHG emissions by minimizing reliance on energy-intensive primary material production, reducing demand for raw materials, and diverting paper from landfills, where decomposition can produce methane.",
+        "impact": "Increase Recycling reduces GHG emissions by minimizing reliance on energy-intensive primary material production, reducing demand for raw materials, and diverting paper from landfills, where decomposition can produce methane. The impact depends on the scale of adoption and the emissions intensity of the waste management system.",
+        "original_source_url": "https://drawdown.org/explorer/increase-recycling"
+    },
+    {   
+        "id": 23,
+        "sector_id": 3,
+        "title": "Reduce Airplane Contrails",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_AirplaneContrails_2400x2400.jpg?itok=H9PabXiD",
+        "solution_type": "Solar Radiation Management ",
+        "intro_short": "Contrails, the long, thin clouds that form behind airplanes, trap heat radiating from the Earth, creating a strong but short-lived warming effect similar to that of greenhouse gases in the atmosphere. Rerouting airplanes to avoid areas where warming contrails can form reduces the warming impact of these human-made clouds. Rerouting aircraft to avoid turbulence is already an industry practice, and modeling studies plus industry trials have demonstrated that strategically rerouting a small fraction of flights can reduce contrail-induced warming at very low cost. However, adoption will require new regulations and policies, and the effect may be limited by uncertainties in the models used to predict both where warming contrails will form and their climate impacts, as well as by safety concerns in congested airspaces. The immediate and direct decrease in warming by reducing contrails makes this a high-priority “emergency brake” climate solution. However, because the industry is not ready to adopt the solution at scale today and because there are major gaps in the data on its potential effectiveness, we will “Keep Watching” this solution.",
+        "impact": "Reduce Airplane Contrails reduces GHG emissions by minimizing the warming impact of contrails, which are human-made clouds that form behind airplanes. The impact depends on the scale of adoption and the emissions intensity of the aviation sector.",
+        "original_source_url": "https://drawdown.org/explorer/reduce-airplane-contrails"
+    },
+    {   
+        "id": 24,
+        "sector_id": 4,
+        "title": "Deploy Nuclear Fusion",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_NuclearFusion_2400x2400.jpg?itok=DnD6f_HI",
+        "solution_type": "Shift Production",
+        "intro_short": "Nuclear fusion combines two elements in a nuclear reaction to form a larger element and release energy that can be used to generate electricity. Nuclear fusion has been researched since the 1950s, but there have been no nuclear fusion plants built to date. Globally, electricity production mainly relies on fossil fuels, with an increasing portion being generated by renewable sources such as wind and solar. However, wind and solar alone are unable to provide baseload electricity (the minimum amount of electric power delivered to an electrical grid) due to their intermittent nature, and energy storage is required for grid reliability. Advantages of nuclear fusion include reducing reliance on fossil fuels for electricity generation, producing emission-free electricity during operation, being inherently safer than nuclear fission, generating minimal nuclear waste, and providing baseload power. Disadvantages include technical challenges, high costs, and uncertainty around regulations. We will “Keep Watching” nuclear fusion, but it is currently unproven and extremely expensive.",
+        "impact": "Deploy Nuclear Fusion reduces GHG emissions by providing a clean alternative to fossil fuel-based electricity generation. The impact depends on the scale of adoption and the emissions intensity of the electricity grid.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-nuclear-fusion"
+    },
+    {   
+        "id": 25,
+        "sector_id": 5,
+        "title": "Use Feed Additives",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_FeedAdditive_2400x2400.jpg?itok=PVxzuJrR",
+        "solution_type": "Shift Agriculture Practices",
+        "intro_short": "Feed additives can reduce enteric methane production in ruminant livestock, such as cattle, goats, and sheep. Most feed additive compounds are still being researched to determine their efficacy and safety; however, at least one product, 3-NOP (3-nitrooxypropanol), has been shown to be effective, has recently been approved for use in many countries, and has experienced some early adoption. However, because of cost and the need to be administered daily, the use of feed additives is currently limited to confined ruminants in high-income countries and is not feasible for the majority of global ruminant livestock. Based on these limitations and current levels of adoption, we will “Keep Watching” this potential solution.",
+        "impact": "Use Feed Additives reduces GHG emissions by decreasing enteric methane production in ruminant livestock. The impact depends on the scale of adoption and the emissions intensity of the agricultural sector.",
+        "original_source_url": "https://drawdown.org/explorer/use-feed-additives"
+    },
+    {   
+        "id": 26,
+        "sector_id": 1,
+        "title": "Deploy Ocean Alkalinity Enhancement",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_OceanAlkalinityEnhancement_2400x2400.jpg?itok=1otmUu5q",
+        "solution_type": "Manipulate Biogeochemical Cycles",
+        "intro_short": "Ocean alkalinity enhancement (OAE) increases the ocean’s natural ability to remove CO₂ from the air by increasing the alkalinity of ocean water. This carbon removal practice could be globally effective at removing CO₂ at the gigaton level annually and is currently being tested in field studies. Advantages of OAE include its ability to mitigate ocean acidification where it’s deployed and its scalability. Disadvantages include uncertainties surrounding OAEs’ global effectiveness and feasibility, potential impacts on marine life and humans, complex monitoring needed for verification, and potentially high costs, all of which need to be more closely studied. We will “Keep Watching” Deploy Ocean Alkalinity Enhancement until the technology advances and its risks, costs, and benefits become clearer.",
+        "impact": "OAE is the practice of adding alkalinity to seawater to increase the ocean’s ability to remove atmospheric CO₂. The addition of alkalinity through OAE mimics the natural process of weathering, or the physical and chemical breakdown of rocks. Rock weathering on land produces alkaline substances that eventually flow into the ocean through rivers and groundwater. This natural supply of alkalinity reduces ocean acidity, which affects the distribution of various carbon forms in the ocean. As alkalinity increases, CO₂ dissolved in seawater shifts toward more stable carbon forms, like bicarbonate and carbonate ions, that cannot exchange with air. This allows the ocean to remove more gaseous CO₂ from the atmosphere because the ocean and the atmosphere maintain a balance of CO₂ through gas movement at the sea surface. Most of the dissolved carbon in the ocean is bicarbonate and carbonate ions, which can persist in seawater for thousands of years. Under natural conditions, the ocean removes nearly 0.5 Gt of CO₂ annually. OAE generally relies on dissolving large amounts of ground-up rocks, either directly in the ocean or indirectly in water that is added to the ocean, to increase alkalinity and remove CO₂. This practice typically requires mining for alkaline rocks, though alkaline materials can also be sourced from waste by-products of other industries (e.g., steel slag, mine tailings) or commercially through human-made substances.",
+        "original_source_url": "https://drawdown.org/explorer/deploy-ocean-alkalinity-enhancement"
+    },
+    {   
+        "id": 27,
+        "sector_id": 2,
+        "title": "Improve District Heating: Industry",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_DistrictHeating_2400x2400.jpg?itok=Ml4iT8rQ",
+        "solution_type": "Shift Production ",
+        "intro_short": "Improving district heating for industry involves using low-carbon alternatives, such as electric boilers, heat pumps, and waste heat from other industries, to provide heat to industries for their operations. Currently, most district heating for industry relies heavily on fossil fuels to generate heat. Low-carbon alternatives have the potential to make a significant dent in the global emissions from industry, but such projects are also challenging to implement due to their scale and complexity, and there is currently a lack of publicly available data that would allow for a deeper analysis. Based on our assessment, we will “Keep Watching” this potential solution.",
+        "impact": "Improving district heating for industry can significantly reduce GHG emissions by increasing the efficiency of heat generation and distribution. The impact depends on the scale of adoption and the emissions intensity of the energy grid.",
+        "original_source_url": "https://drawdown.org/explorer/improve-district-heating-industry"
+    },
+    {   
+        "id": 28,
+        "sector_id": 3,
+        "title": "Mobilize Green Hydrogen for Aviation and Trucking",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_GreenHydrogen_2400x2400.jpg?itok=KcCJJ5AC",
+        "solution_type": "Fuel Switching ",
+        "intro_short": "Green hydrogen is an emissions-free fuel produced by using renewable electricity to split water into hydrogen and oxygen. For aviation and long-haul trucking, green hydrogen can be used either directly in fuel cells or combusted in modified engines, offering a potential pathway to deep emissions reductions. It generates no CO₂ at the point of use, and when produced with clean power, life-cycle emissions can be near zero. However, green hydrogen faces major barriers in terms of energy intensity, infrastructure needs, cost, and vehicle redesign. We will “Keep Watching” Mobilize Green Hydrogen for Aviation and Trucking due to its high potential impact, even though it is not yet ready for widespread deployment.",
+        "impact": "Mobilizing green hydrogen for aviation and trucking can significantly reduce GHG emissions by providing a cleaner alternative to conventional fuels. The impact depends on the scale of adoption and the emissions intensity of the transportation sector.",
+        "original_source_url": "https://drawdown.org/explorer/mobilize-green-hydrogen-for-aviation-and-trucking"
+    },
+    {   
+        "id": 29,
+        "sector_id": 4,
+        "title": "Use Carbon Capture & Storage on Fossil Fuel Power Plants",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Explorer_NON_CCSPowerPlant_2400x2400.jpeg?itok=CR83gB23",
+        "solution_type": "Shift Production ",
+        "intro_short": "Carbon capture and storage (CCS) reduces the operational GHG emissions from fossil fuel power plants by selectively capturing CO₂ from the plant’s exhaust flue, preventing it from entering the atmosphere. The captured CO₂ is then concentrated, compressed, and permanently stored underground. The carbon capture technology is effective and available, but it is expensive and energy-intensive. Globally, emissions from coal and gas power plants are still increasing, potentially making retrofitting newer plants with CCS an appealing emissions reduction strategy. However, despite 30 years of pilot and commercial projects, most power plant CCS projects have failed. While CCS can cut CO₂ emissions, large-scale deployment of this technology on fossil-fueled power plants will likely drive continued production and use of coal and gas. Based on this risk, as well as the availability of cheaper, clean energy alternatives for power generation, we conclude that using CCS on fossil fuel power plants is “Not Recommended” as a climate solution.",
+        "impact": "Using carbon capture and storage on fossil fuel power plants can reduce GHG emissions by capturing CO₂ before it enters the atmosphere. The impact depends on the scale of adoption and the emissions intensity of the energy grid.",
+        "original_source_url": "https://drawdown.org/explorer/use-carbon-capture-storage-on-fossil-fuel-power-plants"
+    },
+    {   
+        "id": 30,
+        "sector_id": 5,
+        "title": "Improve Irrigation Water Use Efficiency",
+        "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_Improve%20Irrigation%20Efficiency_2400x2400.jpg?itok=r-YMrjU5",
+        "solution_type": "Shift Agriculture Practices",
+        "intro_short": "Irrigation water use efficiency involves reducing water use without compromising crop productivity by improving irrigation scheduling and/or equipment. Irrigation produces GHG emissions by altering biogeochemical cycling of carbon and nitrogen cycles in water and soils, and through energy use for pumping. Reducing the duration of soil saturation, the amount of groundwater extracted, and the total volume of water pumped can help reduce associated emissions. However, data on the effectiveness of improved water use efficiency in reducing emissions remain very limited. We will 'Keep Watching' this solution as additional data become available.",
+        "impact": "Improving irrigation water use efficiency can reduce GHG emissions by minimizing water use and associated energy consumption. The impact depends on the scale of adoption and the emissions intensity of the agricultural sector.",
+        "original_source_url": "https://drawdown.org/explorer/improve-irrigation-water-use-efficiency"
+    }
+
+]

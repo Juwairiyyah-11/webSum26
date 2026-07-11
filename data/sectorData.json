@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "sector_name": "Nature-Based Carbon Removal" 
+    },
+    {
+        "id": 2,
+        "sector_name": "Industry, Materials & Waste" 
+    },
+    {
+        "id": 3,
+        "sector_name": "Transportation" 
+    },
+    {
+        "id": 4,
+        "sector_name": "Electricity" 
+    },
+    {
+        "id": 5,
+        "sector_name": "Food, Agriculture, Land and Ocean" 
+    }
+]
