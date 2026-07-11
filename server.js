@@ -8,7 +8,7 @@
 * 
 *  Name: Juwairiyyah Ahmed Student ID: 17380134 Date: 2026-07-10
 *
-*  Published URL: https://github.com/jahmed64_seneca/WebSum26.git
+*  Published URL: https://web-sum26-3ydn.vercel.app
 ********************************************************************************/
 
 /* Goal: Build upon Assignment 1 by adding a custom landing page with links to various climate solutions,
