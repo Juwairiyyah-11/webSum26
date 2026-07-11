@@ -124,20 +124,14 @@ app.use((req, res) => {
 
 
 
-// Initialize the data then start the server
+// Initialize the data
 solutionData
     .initialize()
-
     .then(() => {
         console.log("Initialization successful");
-
-        app.listen(HTTP_PORT, () => {
-            console.log(`Server running on port ${HTTP_PORT}`);
-
-        });
     })
-
     .catch((err) => {
         console.log("Initialization error:");
         console.log(err);
     });
+module.exports = app;
